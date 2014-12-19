@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = WAOpenIN;
+	cell = PSLinkCell;
+	detail = WAOpenINListController;
+	icon = WAOpenIN.png;
+	isController = 1;
+	label = WAOpenIN;
+    };
+}

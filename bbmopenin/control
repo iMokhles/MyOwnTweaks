@@ -1,0 +1,10 @@
+Package: com.imokhles.BBMOpenIN
+Name: BBMOpenIN
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: More share options for bbm images
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/BBMOpenIN.bundle/BBMOpenINIcon120.png

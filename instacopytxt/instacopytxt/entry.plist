@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = InstaCopyTXT;
+	cell = PSLinkCell;
+	detail = InstaCopyTXTListController;
+	icon = InstaCopyTXT.png;
+	isController = 1;
+	label = InstaCopyTXT;
+    };
+}

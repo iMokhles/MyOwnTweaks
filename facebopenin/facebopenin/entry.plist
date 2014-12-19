@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = FaceBOpenIN;
+	cell = PSLinkCell;
+	detail = FaceBOpenINListController;
+	icon = FaceBOpenIN.png;
+	isController = 1;
+	label = FaceBOpenIN;
+    };
+}

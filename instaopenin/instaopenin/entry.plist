@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = InstaOpenIN;
+	cell = PSLinkCell;
+	detail = InstaOpenINListController;
+	icon = InstaOpenINI.png;
+	isController = 1;
+	label = InstaOpenIN;
+    };
+}

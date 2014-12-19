@@ -1,0 +1,10 @@
+Package: com.imokhles.fbcopytxt
+Name: FBCopyTXT
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: copy Facebook posts texts
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/FBCopyTXT.bundle/FBCopyTXTIcon120.png

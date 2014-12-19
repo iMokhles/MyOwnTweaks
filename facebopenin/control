@@ -1,0 +1,10 @@
+Package: com.imokhles.facebopenin
+Name: FaceBOpenIN
+Depends: mobilesubstrate
+Version: 1.0b
+Architecture: iphoneos-arm
+Description: Share Facebook images with apps
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/FaceBOpenIN.bundle/FaceBOpenINIcon120.png

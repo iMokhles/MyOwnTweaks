@@ -1,0 +1,10 @@
+Package: com.imokhles.WAOpenIN
+Name: WAOpenIN
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: More share options for WhatsApp images/videos
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/WAOpenIN.bundle/WAOpenINIcon120.png

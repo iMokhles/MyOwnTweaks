@@ -1,0 +1,11 @@
+Package: com.imokhles.InstaOpenIN
+Name: InstaOpenIN
+Depends: mobilesubstrate
+Conflicts: com.idevicelover.instaenhancer
+Version: 1.1
+Architecture: iphoneos-arm
+Description: share instagram images/videos to other apps
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/InstaOpenIN.bundle/InstaOpenINIcon120.png

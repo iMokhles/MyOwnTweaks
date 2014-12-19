@@ -1,0 +1,10 @@
+Package: com.imokhles.instacopytxt
+Name: InstaCopyTXT
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Copy texts from Instagram
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/InstaCopyTXT.bundle/InstaCopyTXTIcon120.png

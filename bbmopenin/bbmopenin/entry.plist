@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = BBMOpenIN;
+	cell = PSLinkCell;
+	detail = BBMOpenINListController;
+	icon = BBMOpenIN.png;
+	isController = 1;
+	label = BBMOpenIN;
+    };
+}
